@@ -2,12 +2,6 @@
 
 ## The Prework Study Guide Webpage was created for students to add their notes throughout the Prework Course. Writing out notes can be time consuming and you can easily misplace your journal; having a webpage created makes studying easier for students. Giving them the opportunity to edit or add any information needed for the specific subject. Creating the Prework Study Guide Webpage taught me difference between HTML, CSS, JS and Github. 
 
-Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
-
-- What was your motivation?
-- Why did you build this project? (Note: the answer is not "Because it was a homework assignment.")
-- What problem does it solve?
-- What did you learn?
 
 ## Installation
 
